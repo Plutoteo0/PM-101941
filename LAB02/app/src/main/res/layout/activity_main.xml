@@ -12,7 +12,7 @@
     <TextView android:id="@+id/tvTitle"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
-        android:text="Fiodar Navumchyk 101941"
+        android:text="Fiodar Navumchyk-101941"
         android:textColor="#FFFFFF"
         android:textSize="14sp" android:gravity="center"
         android:layout_marginBottom="8dp"
